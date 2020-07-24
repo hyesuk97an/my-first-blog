@@ -1,0 +1,7 @@
+{
+    "git.ignoreMissingGitWarning": True,
+    "python.pythonPath":"c:\\Anaconda3\\pythonw.exe",
+    "python.linting.pylintArgs": [
+        "--load-plugins","pylint_django"
+    ]
+}
